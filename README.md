@@ -9,7 +9,6 @@ It has been styled to match form elements styled by [Twitter's Bootstrap CSS fra
 #### Requirements
 
 - Angular (v1.0.8+)
-- jQuery (v1.7+)
 
 Looking for collaborators
 -------------------------
@@ -215,7 +214,6 @@ Note, only tested in v1.0.8
 To Do
 -----
 
-- Remove full jQuery dependency
 - Improve behaviour when model values are not valid (e.g. min is greater than max)
 - Improve the dev architecture (add jshint, tests, minification, auto-versioning etc)
 

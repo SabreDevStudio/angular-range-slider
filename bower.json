@@ -7,7 +7,6 @@
     "./angular.rangeSlider.css"
   ],
   "dependencies": {
-    "jquery": ">=1.7",
     "angular": ">=1.0.*"
   }
 }
